@@ -1,4 +1,3 @@
-# Medical-Query-Bot
 
 # 🩺 Medical Query Bot  
 ### Intelligent Medical Document Summarizer & Chat Assistant  
